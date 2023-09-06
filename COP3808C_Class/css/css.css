@@ -1,0 +1,25 @@
+
+h1 {
+    color:darkblue;
+}
+body {
+    background-color: lightblue;
+}
+li {
+    display: inline;
+}
+img {
+  float: left;  
+}
+nav {
+    background-color: gray;
+}
+ nav li {
+    display: inline;
+    font-size: 2em;
+}
+nav li a {
+    display: block;
+    text-align: center;
+    padding: 0.5;
+}
